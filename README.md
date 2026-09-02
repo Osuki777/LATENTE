@@ -6,7 +6,9 @@ Manual de generación y edición audiovisual offline.
 
 Un solo archivo: [`LATENTE.html`](./LATENTE.html). Abrilo en el navegador. Offline. Sin ZIP.
 
-Repo: https://github.com/Osuki777/LATENTE
+- Repo: https://github.com/Osuki777/LATENTE
+- Web: https://osuki777.github.io/LATENTE/
+- Manual: https://osuki777.github.io/LATENTE/LATENTE.html
 
 ## Cita
 
