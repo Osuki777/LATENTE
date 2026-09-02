@@ -19,13 +19,13 @@ Un solo archivo: [`LATENTE.html`](./LATENTE.html). Abrilo en el navegador. Offli
 SHA-256 de los bytes de `LATENTE.html` (`sha256sum`):
 
 ```
-7c596efde88714aedb21c6e7f4d3fd5a687cb43a95120e67246192d84545bcf3  LATENTE.html
+a150c86199e05d2aba502ab08bf831e677217d3af6a8b66a8be944ae992eb878  LATENTE.html
 ```
 
 SHA-256 canónico (meta `latente-checksum`, campo a ceros):
 
 ```
-58bdbf3af1a8b2f3ac43786a3683eaf3bc739045867c7c94194061591524bcf7
+4e041510fa8b67f52bbc585d914bcc9333a80285c5532dd7edd66b04069acb24
 ```
 
 En el HTML: botón **Verificar huella**. Si alguien cambia el texto y no recalcula, el sello falla. La prueba fuerte es este repo público + el depósito DNDA (optativo).
