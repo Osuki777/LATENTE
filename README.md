@@ -2,33 +2,34 @@
 
 Manual de generación y edición audiovisual offline.
 
-**Oscar Salvador Fernandez** · Buenos Aires, Argentina · Vol. 01 · 1 de septiembre de 2026
+**Oscar Salvador Fernandez** · Buenos Aires, Argentina · Vol. 01 · **v1.0.0** · 1 de septiembre de 2026
 
 Un solo archivo: [`LATENTE.html`](./LATENTE.html). Abrilo en el navegador. Offline. Sin ZIP.
 
-- Repo (texto canónico): https://github.com/Osuki777/LATENTE
+- Texto canónico: https://github.com/Osuki777/LATENTE
+- Release v1.0.0: https://github.com/Osuki777/LATENTE/releases/tag/v1.0.0
 - Web: https://osuki777.github.io/LATENTE/
 - Manual: https://osuki777.github.io/LATENTE/LATENTE.html
 
 ## Cita
 
-> Fernandez, Oscar Salvador. *LATENTE: Manual de generación y edición audiovisual offline.* Vol. 01. Buenos Aires, 1 de septiembre de 2026.
+> Fernandez, Oscar Salvador. *LATENTE: Manual de generación y edición audiovisual offline.* Vol. 01 (v1.0.0). Buenos Aires, 1 de septiembre de 2026.
 
 ## Integridad
 
 SHA-256 de los bytes de `LATENTE.html`:
 
 ```
-900f83a38c4f192719fecc3071da03336e38b26cc6e038c9d95b639388e162df  LATENTE.html
+9564196cc163a88835d8d5f8a9924e9f313b0b80d2beb9876271c17d6d408d00  LATENTE.html
 ```
 
 SHA-256 canónico (meta `latente-checksum`, campo a ceros):
 
 ```
-b19f745ce9e9d71175db3e5a010fbbc635a1d6f7db4ca7135faecdc9bb1b88f0
+8287ad823e7292a7d5d2f6579faf2ec66ff7acf16dd6934fe7c049da4702f60b
 ```
 
-En el HTML: botón **Verificar huella**. Si el sello falla, la copia fue editada. El ejemplar de este repositorio es el texto de referencia.
+En el HTML: botón **Verificar huella**. Si el sello falla, la copia fue editada. El ejemplar de este repositorio, tag **v1.0.0**, es el texto de referencia.
 
 ```bash
 sha256sum -c LATENTE.sha256
