@@ -10,6 +10,11 @@ Un solo archivo: [`LATENTE.html`](./LATENTE.html). Abrilo en el navegador. Offli
 - Release v1.0.0: https://github.com/Osuki777/LATENTE/releases/tag/v1.0.0
 - Web: https://osuki777.github.io/LATENTE/
 - Manual: https://osuki777.github.io/LATENTE/LATENTE.html
+- Anexo QNN (PDAI Full / S25 Ultra): https://osuki777.github.io/LATENTE/PDAI-QNN-S25.html
+
+## Anexo
+
+[`PDAI-QNN-S25.html`](./PDAI-QNN-S25.html) — prompting por modelo para PDAI Full en el S25 Ultra (zips `xororz/sd-qnn`, fichas Civitai). Un solo HTML, aparte de LATENTE.html.
 
 ## Cita
 
