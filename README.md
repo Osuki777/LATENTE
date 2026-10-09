@@ -1,5 +1,15 @@
 # LATENTE
 
+![Una tira de cine que se vuelve un paisaje](docs/portada.jpg)
+
+**Generá imagen y video sin mandar nada a la nube.** Un archivo. Se abre en el navegador. Si alguien lo toca, la huella deja de cerrar.
+
+| | |
+|---|---|
+| Para quién | Quien quiere producir audiovisual en su máquina, sin una cuenta |
+| Qué incluye | El manual completo y el anexo del modelo en el teléfono |
+| Qué no hace | No sube tus archivos. No es un curso con certificado |
+
 Manual de generación y edición audiovisual offline.
 
 **Oscar Salvador Fernandez** · Buenos Aires, Argentina · Vol. 01 · **v1.0.0** · 1 de septiembre de 2026
