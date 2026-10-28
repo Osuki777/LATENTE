@@ -56,3 +56,7 @@ sha256sum -c LATENTE.sha256
 Ley 11.723 y Convenio de Berna. El derecho nace con la obra. Queda autorizada la copia de los prompts de ejemplo para uso propio. Queda prohibido republicar el manual como obra propia.
 
 Las marcas y licencias de los modelos (Stable Diffusion, FLUX, PDAI, Layla, Qualcomm, etc.) siguen siendo de sus titulares.
+
+## Criterios de mantenimiento y publicación
+
+Ver [CRITERIOS.md](CRITERIOS.md), [SECURITY.md](SECURITY.md) y [REVISION_PUBLICACION.md](REVISION_PUBLICACION.md). Autoría y permisos específicos de la obra se conservan según LICENSE y sus avisos. Publicar no convierte el proyecto en código abierto ni acredita auditoría o certificación.
