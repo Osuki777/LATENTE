@@ -1,6 +1,6 @@
 # LATENTE
 
-![Índice del manual](docs/images/latente_indice.png)
+![Índice del manual](https://i.imgur.com/PNOrO2q.png)
 
 **Generá imagen y video sin mandar nada a la nube.** Un único archivo HTML autocontenido. Se abre en el navegador. Offline.
 
@@ -32,6 +32,8 @@ Personas que quieren generar y editar imagen/video en su propia máquina, sin de
 |-------|-------------|
 | Índice centrado | Vista principal del manual con el orden de capítulos |
 | Portada + herramientas | Encabezado con selector, búsqueda, PDF y verificar huella |
+
+![Índice centrado](https://i.imgur.com/WP9rSkI.png)
 
 ## Instalación / Uso
 
